@@ -26,3 +26,4 @@ The terminal inquirer will ask you "what would you like to do". Depending on you
 
 Video example
 
+https://youtu.be/PoxP4dIzUBU
